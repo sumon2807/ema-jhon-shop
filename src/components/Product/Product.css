@@ -32,3 +32,8 @@
     position: absolute;
     bottom: 0;
 }
+.cart-btn:hover{
+    background-color: #ff9900;
+    border: 0px;
+    transition: .3s;
+}

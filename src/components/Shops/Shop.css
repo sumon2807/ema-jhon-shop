@@ -3,11 +3,16 @@
     grid-template-columns: 4fr 1fr;
 }
 .card-container{
-    border: 1px solid;
+    background-color: #ff9900;
+    opacity: .7;
+    padding-left: 23px;
 }
 .product-container{
     margin: 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
+}
+.product-container{
+    opacity: 1;
 }
